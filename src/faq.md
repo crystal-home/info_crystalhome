@@ -11,3 +11,9 @@
 
 ...
 
+## where do you deliver
+
+## is there extra price to deliver out of Europe
+
+...
+
