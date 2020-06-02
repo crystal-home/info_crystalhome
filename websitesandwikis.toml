@@ -7,7 +7,7 @@ addr = "0.0.0.0"
 [[wiki]]
 #unique name for the wiki
 name = "cw"
-title = "Crytal Home Wiki"
+title = "Crystal Home Wiki"
 #http or git url
 url = "github.com/crystal-home/info_crystalhome"
 #if empty will be auto created
@@ -21,7 +21,7 @@ branchswitch = false
 #path in the repo where the info is, std "src"
 srcdir = "src"
 #environment name (for example:  production, staging, testing)
-environment = "testing"
+environment = ""
 
 # [[web]]
 # #unique name for the wiki
