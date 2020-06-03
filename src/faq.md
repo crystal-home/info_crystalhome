@@ -1,19 +1,15 @@
-# FAQ = Frequently Asked Questions
+# FAQ
 
-## delivery period
+### how do I know it will be delivered?
 
+We have an proven record of 19 years and 7 exits
 
-## how do I know it will be delivered?
+We will start to build when first 10 homes are sold.
 
-- #TODO: talk bout incubaid, ... history, way how we don't start if not enough orders
+[https://incubaid.com/](https://incubaid.com/)
 
-## don't know to choose between version without energy or with...
+### Where do you deliver?
 
-...
+We start delivering in Europe first, for delivering outside Europe we will communicate extra costs before the start of the project.
 
-## where do you deliver
-
-## is there extra price to deliver out of Europe
-
-...
 

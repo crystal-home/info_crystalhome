@@ -1,4 +1,13 @@
-# order 
+# Order & Payment Terms
 
-- #TODO: define how to order, terms, ...
-- link to delivery/payment (or include)
+- 10k PrePurchase
+
+- 10k EUR when unit 1 delivered, everyone welcome to visit
+
+- 30k when materials are bought & full plan made
+
+- 20k delivery on site
+
+- 10k finishing
+
+( The prepurchase is not refundable but can be transferred.)
