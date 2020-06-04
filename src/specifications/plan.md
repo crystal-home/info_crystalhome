@@ -1,3 +1,3 @@
-# plan
+# Plan
 
 ![](./img/plan.jpg)

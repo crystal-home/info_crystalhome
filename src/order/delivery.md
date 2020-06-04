@@ -1,3 +1,3 @@
-# delivery
+# Delivery
 
 - #todo: describe when we will build/deliver ...
