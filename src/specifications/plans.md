@@ -1,3 +1,3 @@
 # plan
 
-![](./img/plan.png)
+![](./img/plan.jpg)
