@@ -1,4 +1,6 @@
-# GENERAL CHARACTERICS (plan nog even veranderen op site!!!)
+# General Specifications
+
+![](../img/plan.jpg)
 
 Length                   12,03 m
 
