@@ -1,5 +1,5 @@
 # Crystal Home
 
-![](img/home.png)
+![](./img/home.png)
 
 - #TODO: some intro text about wiki

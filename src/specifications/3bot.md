@@ -1,2 +1,2 @@
-![](img/3bot.png)
+![](./img/3bot.png)
 
